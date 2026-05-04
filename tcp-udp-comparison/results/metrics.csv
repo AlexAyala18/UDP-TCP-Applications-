@@ -1,0 +1,4 @@
+File,Time(sec),Throughput(bytes/sec)
+small.txt,2.2360517978668213,0
+medium.txt,2.1591928005218506,0
+large.txt,2.1840198040008545,0

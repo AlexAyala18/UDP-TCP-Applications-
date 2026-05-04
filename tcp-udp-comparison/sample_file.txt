@@ -1,0 +1,3 @@
+This is a file meant for testing
+this file should now send information correctly
+goodbye
